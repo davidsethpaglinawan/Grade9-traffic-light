@@ -1,1 +1,1 @@
-# Grade9-Your-Project
+# Grade9-Your-Project the green led lights up for for 5 seconds after the 5 seconds the yellow led lights up at exactly 2 seconds then after the 2 seconds the red led lights for 5 seconds and the whole repeats over and over
